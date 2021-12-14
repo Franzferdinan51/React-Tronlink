@@ -13,7 +13,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/Eryk-Luiz/backend-br-web/blob/master/public/assets/banner.png" width="600"></img>
+  <img src="https://github.com/Eryk-Luiz/React-Tronlink/blob/master/public/banner.png" width="600"></img>
 </p>
 
 
