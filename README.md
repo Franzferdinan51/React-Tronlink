@@ -42,7 +42,7 @@ import { useTronLink } from '../../contexts/tronlink';
 
  const { 
     wallet, // The connected wallet adress
-    walletName, // The connected waller name
+    walletName, // The connected wallet name
     trxBalance, // Balance in TRX of the connected wallet
     connectToWallet, // Method that connects to the wallet and create a listener no wallet updates
     isConnected // Boolean that returns if the wallet is connected or not
