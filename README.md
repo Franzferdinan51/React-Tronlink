@@ -1,46 +1,76 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://github.com/Eryk-Luiz/backend-br-web/blob/master/public/assets/backendbrasil.png" width="500"></img>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+<img src="https://img.shields.io/npm/v/typescript?color=orange&label=TypeScript&logo=Typescript&logoColor=blue&style=for-the-badge">
+<img src="https://img.shields.io/npm/v/react?color=orange&label=React&logo=React&logoColor=Blue&style=for-the-badge"/>
+<img src="https://img.shields.io/npm/l/1?color=orange&logo=License&logoColor=purple&style=for-the-badge"/>
+</p>
 
-## Available Scripts
+<p align="center">
+  Aplicação que agrega vagas para desenvolvedores backend :memo:
+</p>
 
-In the project directory, you can run:
+<hr>
 
-### `yarn start`
+<p align="center">
+  <img src="https://github.com/Eryk-Luiz/backend-br-web/blob/master/public/assets/banner.png" width="600"></img>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Você pode acessar a aplicação por aqui: [Backend brasil](https://backendbrasil.com.br/)
 
-### `yarn test`
+### :building_construction: Como rodar o projeto ?
+```bash
+  # Clone o projeto
+  git clone https://github.com/Eryk-Luiz/backend-br-web.git
+  
+  # Entre no diretório criado
+  cd backend-br-web
+  
+  # Instale as dependências
+  yarn install ou npm install
+  
+  # Inicie o projeto
+  yarn dev
+  
+  # O Projeto ficara disponível na porta 3000
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### :beers: Como contribuír ?
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1 - Fork do Projeto
 
-### `yarn eject`
+```bash
+  # 2 - Crie sua feature ou fix branch
+  git checkout -b "feature/Example"
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  # 3 - Crie sua feature ou fix branch
+  git commit -m 'Add feature example'
+  
+  # 4 - 4 - Suba sua branch
+  git pull origin feature/Example
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Depois disso é só enviar uma pull request e aguardar que ela seja aprovada, lembre-se de sempre manter o projeto no padrão!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### :page_facing_up: Sobre
 
-## Learn More
+<p align="center">
+  <img src="https://github.com/Eryk-Luiz/backend-br-web/blob/master/public/assets/backendBrasil.svg"></img>
+</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Esse projeto foi criado com o intuíto de ajudar a comunidade backend do brasil, divulgando vagas disponíveis em todo o país. Foi criado com base no repositório de vagas https://github.com/backend-br/vagas
+
+
+## :closed_book: License
+
+<p align="center">Released in 2021. This project is under the<a href="https://github.com/Eryk-Luiz/backend-br-web/blob/master/LICENSE"> MIT license</a> 🚀</p>
+
+<p align="center"> Made with love by <a href="https://github.com/Eryk-Luiz">Eryk Luiz</a> 🚀</p>
