@@ -19,7 +19,7 @@
 
 Você pode acessar a aplicação por aqui: [Backend brasil](https://backendbrasil.com.br/)
 
-### :building_construction: Como rodar o projeto ?
+### :building_construction: How to run the project?
 ```bash
   # Clone the project
   git clone https://github.com/Eryk-Luiz/React-Tronlink.git
@@ -36,12 +36,10 @@ Você pode acessar a aplicação por aqui: [Backend brasil](https://backendbrasi
   # You can access the project on port 3000
 ```
 
-
-
 ### :beers: How to contribute ?
 
 
-1 - Fork do Projeto
+1 - Fork the Project
 
 ```bash
   # 2 - Create your feature or fix breanch
@@ -57,10 +55,6 @@ Você pode acessar a aplicação por aqui: [Backend brasil](https://backendbrasi
 After that just create a pull request and wait it to be aproved.
 
 ### :page_facing_up: About
-
-<p align="center">
-  <img src="https://github.com/Eryk-Luiz/backend-br-web/blob/master/public/assets/backendBrasil.svg"></img>
-</p>
 
 This project was created in order to help, Tron developers community all over the world, it connects to the tronlink wallet you can watch out here: https://www.tronlink.org/
 
