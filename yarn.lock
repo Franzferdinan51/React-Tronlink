@@ -10617,6 +10617,11 @@ tr46@^2.0.2:
   dependencies:
     punycode "^2.1.1"
 
+tronweb-typings@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/tronweb-typings/-/tronweb-typings-1.0.1.tgz#e4ec6992fc0e58a5fb7c65a0fafb80b187abc9f4"
+  integrity sha512-Ajs6dsFo9gbOd96Q8UinyqapdqlKC8/bRQWQSQbFynnV40e1Uk5h/IRV+IuShoLhGZB33YCqIVNRUKjo/vU+5Q==
+
 tryer@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/tryer/-/tryer-1.0.1.tgz#f2c85406800b9b0f74c9f7465b81eaad241252f8"
