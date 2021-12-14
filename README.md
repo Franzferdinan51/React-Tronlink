@@ -16,9 +16,6 @@
   <img src="https://github.com/Eryk-Luiz/React-Tronlink/blob/master/public/banner.png" width="600"></img>
 </p>
 
-
-Você pode acessar a aplicação por aqui: [Backend brasil](https://backendbrasil.com.br/)
-
 ### :building_construction: How to run the project?
 ```bash
   # Clone the project
