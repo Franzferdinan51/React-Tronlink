@@ -33,6 +33,23 @@
   # You can access the project on port 3000
 ```
 
+### :technologist: Usage
+
+The project was made with Context API saving Tronlink data in a global state, that you can have access using the hookie `useTronlink()`
+
+```tsx
+import { useTronLink } from '../../contexts/tronlink';
+
+ const { 
+    wallet, // The connected wallet adress
+    walletName, // The connected waller name
+    trxBalance, // Balance in TRX of the connected wallet
+    connectToWallet, // Method that connects to the wallet and create a listener no wallet updates
+    isConnected // Boolean that returns if the wallet is connected or not
+    isMainNet // Boolean that returns if the waller is connected on main network or not
+ } = useTronLink();
+```
+
 ### :beers: How to contribute ?
 
 
